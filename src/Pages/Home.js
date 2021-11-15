@@ -19,7 +19,7 @@ function Home() {
                     type="button"
                     buttonSize="btn--large"
                     buttonStyle="btn--outline--white"
-                >Live Park Cam</Button>
+                >Park Webcams</Button>
             </Link>
         </nav>
         </div>
