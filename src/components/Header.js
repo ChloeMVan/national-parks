@@ -11,7 +11,7 @@ const Header = () => {
                     type="button"
                     buttonSize="btn--title-size"
                     buttonStyle="btn--title"
-                >National Parks</Button>
+                >National Prks</Button>
             </Link>  
             <p1>Discover Something New!</p1> 
         </div>
