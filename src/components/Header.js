@@ -6,7 +6,7 @@ import { Button } from '../components/Button';
 const Header = () => {
     return (
         <div className = 'header'>
-            <Link to="/national-parks">
+            <Link to="/">
                 <Button onClick={() => {console.log("Clicked") }}
                     type="button"
                     buttonSize="btn--title-size"
