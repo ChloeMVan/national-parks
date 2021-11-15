@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(8, 38, 83);
+    color: white;
+    padding: 40px 0;
+    font-family: "Varela Round", sans-serif;
+    font-size: 20px;
+}

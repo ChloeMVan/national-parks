@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+.btn {
+    font-family: "Varela Round", sans-serif;
+    font-weight: 400;
+    border-radius: 2px;
+    margin: 20px;
+    cursor: point;
+    transition: transform 0.3s ease;
+    }
+
+.btn:hover{
+    transform: translateY(-3px);
+}
+
+.btn--outline {
+    background-color: transparent;
+    color: black;
+    border-color: black;
+    border: 10;
+}
+
+.btn--title{
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+
+.btn--outline--white{
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    border: 10;
+}
+
+.btn--solid{
+    background-color: rgb(178, 197, 250);
+    color: black;
+    border: none;
+    height: 100px;
+    width: 200px;
+}
+
+.btn--link{
+    background-color: transparent;
+    color: black;
+    border: none;
+    text-decoration: underline;
+}
+
+.btn--medium{
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+.btn--large{
+    padding: 15px 30px;
+    font-size: 30px;
+}
+
+.btn--title-size{
+    padding: 15px 30px;
+    font-size: 60px;
+}
+
+.btn--link--size{
+    font-size: 18px;
+}

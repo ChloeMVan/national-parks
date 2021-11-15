@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+.hasImage img{
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.hasImage h1{
+  font-family: "Varela Round", sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+.hasNoImages h, h1{
+  font-family: "Varela Round", sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+.text p{
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.noCams{
+  background-image: url("http://www.freeimageslive.com/galleries/sports/moods%20emotions/pics/still_waterP3103339.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+}
+
+.noCams h1{
+  font-family: "Varela Round", sans-serif;
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}

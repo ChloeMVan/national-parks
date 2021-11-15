@@ -1,0 +1,15 @@
+.home{
+    background-image: url("https://media.timeout.com/images/105551856/image.jpg");
+    height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+}
+
+.home Button{
+  align-items: center;
+  flex-direction: column;
+  margin-top: 50%;
+}

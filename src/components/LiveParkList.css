@@ -1,0 +1,14 @@
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.page{
+    background: linear-gradient(rgb(178, 197, 250), 10%, white)
+}
+
+.backToTop{
+    justify-content: right;
+    align-items: right;
+}

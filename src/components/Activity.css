@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+.activity{
+    border: 10px;
+    padding: 7px 23px;
+    font-family: "Varela Round", sans-serif;
+    font-size: 13px;
+    background: linear-gradient(rgb(178, 197, 250), 10%, white)
+}
+
+.container{
+    columns: 3 auto;
+}
