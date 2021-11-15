@@ -16,7 +16,7 @@ export default function App() {
 
   return (
     <Routes>
-      <Route path="/national-parks" element={<Home />} />
+      <Route path="/" element={<Home />} />
       <Route path="/activity" element={<ActivityPage />} />
       <Route path="/activity/:id/:name" element={<Activity />} />
       <Route path="/parkList" element={<LiveParkList />} />
