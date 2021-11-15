@@ -13,7 +13,6 @@ function Home() {
                     buttonSize="btn--large"
                     buttonStyle="btn--outline--white"
                 >Find Activities</Button>
-                
             </Link>
             <Link to="/parkList">
                 <Button onClick={() => { console.log("Clicked") }}
